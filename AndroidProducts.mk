@@ -5,5 +5,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_luigi.mk
+    $(LOCAL_DIR)/lmodroid_luigi.mk
 
